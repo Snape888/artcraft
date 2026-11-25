@@ -1,0 +1,6 @@
+{
+  "productName": "ArtCraft (Snape)",
+  "identifier": "com.snape888.artcraft",
+  "build": { "beforeBuildCommand": "" },
+  "bundle": { "macOS": { "signingIdentity": "-" } }
+}
